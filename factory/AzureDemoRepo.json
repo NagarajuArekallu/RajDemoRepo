@@ -1,0 +1,9 @@
+{
+	"name": "AzureDemoRepo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3947dd5b-97fc-4e15-9d6c-3e8fb919ff78",
+		"tenantId": "027d801c-d896-45a6-8295-a1ed485e0414"
+	}
+}
